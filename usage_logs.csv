@@ -1,0 +1,11 @@
+timestamp,api_key,employee_name,department,model,question,tokens_used,cost_usd
+2026-06-27 09:00:00,emp001,Rahul Sharma,Engineering,llama-3.1-8b-instant,What is Python?,150,0.00000750
+2026-06-27 09:30:00,emp002,Priya Patel,Marketing,llama-3.1-8b-instant,How to use Excel?,200,0.00001000
+2026-06-27 10:00:00,emp001,Rahul Sharma,Engineering,llama-3.1-8b-instant,Explain machine learning,300,0.00001500
+2026-06-27 10:30:00,emp003,Amit Kumar,Sales,llama-3.1-8b-instant,What is CRM?,180,0.00000900
+2026-06-27 11:00:00,emp004,Gaurav Shukla,Engineering,llama-3.1-8b-instant,What is RAG?,250,0.00001250
+2026-06-27 11:30:00,emp002,Priya Patel,Marketing,llama-3.1-8b-instant,Write email template,400,0.00002000
+2026-06-27 12:00:00,emp005,Unknown,Unknown,llama-3.1-8b-instant,How to hack?,100,0.00000500
+2026-06-27 12:30:00,emp001,Rahul Sharma,Engineering,llama-3.1-8b-instant,Explain neural networks,350,0.00001750
+2026-06-27 13:00:00,emp003,Amit Kumar,Sales,llama-3.1-8b-instant,Sales pitch ideas,220,0.00001100
+2026-06-27 13:30:00,emp006,Unknown,Unknown,llama-3.1-8b-instant,Personal project help,180,0.00000900

@@ -9,7 +9,7 @@ if not os.path.exists("usage_logs.csv"):
     with open("usage_logs.csv", "w") as f:
         f.write("timestamp,api_key,employee_name,department,model,question,tokens_used,cost_usd\n") 
 
-        
+
 # ── PAGE CONFIG ──
 st.set_page_config(
     page_title="API Usage Tracker",
@@ -20,11 +20,11 @@ st.set_page_config(
 # ── GREEN THEME ──
 st.markdown("""
     <style>
-    .main {background-color: #f0fff4;}
-    .stMetric {background-color: #ffffff; padding: 15px; border-radius: 10px; border-left: 4px solid #38a169;}
+    .main {background-color: #ebf8ff;}
+    .stMetric {background-color: #3182ce; padding: 15px; border-radius: 10px; border-left: 4px solid #38a169;}
     .stDataFrame {background-color: #ffffff;}
     h1, h2, h3 {color: #276749;}
-    .stSidebar {background-color: #c6f6d5;}
+    .stSidebar {background-color: #bee3f8;}
     </style>
 """, unsafe_allow_html=True)
 
