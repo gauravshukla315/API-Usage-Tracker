@@ -1,0 +1,22 @@
+{
+    "emp001": {
+        "name": "Rahul Sharma",
+        "department": "Engineering",
+        "monthly_limit_usd": 10.0
+    },
+    "emp002": {
+        "name": "Priya Patel",
+        "department": "Marketing",
+        "monthly_limit_usd": 5.0
+    },
+    "emp003": {
+        "name": "Amit Kumar",
+        "department": "Sales",
+        "monthly_limit_usd": 5.0
+    },
+    "emp004": {
+        "name": "Gaurav Shukla",
+        "department": "Engineering",
+        "monthly_limit_usd": 15.0
+    }
+}
