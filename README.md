@@ -1,3 +1,6 @@
+## 🌐 Live Demo
+👉 [Click here to see live dashboard](https://api-usage-tracker-tdtkgnx4fkk7fmdu6m84ps.streamlit.app)
+
 # API Usage Tracker Dashboard 📊
 
 ## Problem We're Solving
