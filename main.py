@@ -4,6 +4,12 @@ import json
 from datetime import datetime, timedelta
 import os
 
+
+if not os.path.exists("usage_logs.csv"):
+    with open("usage_logs.csv", "w") as f:
+        f.write("timestamp,api_key,employee_name,department,model,question,tokens_used,cost_usd\n") 
+
+        
 # ── PAGE CONFIG ──
 st.set_page_config(
     page_title="API Usage Tracker",
